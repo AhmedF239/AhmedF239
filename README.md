@@ -1,1 +1,4 @@
-Ahmed Fahmy. Potential AI scientist, currently working within the data science field!
+Ahmed Fahmy, aspiring AI Scientist!
+
+
+ Most of my work here is personal files I'm trying out.
